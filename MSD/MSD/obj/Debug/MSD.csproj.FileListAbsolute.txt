@@ -1,0 +1,13 @@
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\bin\Debug\MSD.exe.config
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\bin\Debug\MSD.exe
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\bin\Debug\MSD.pdb
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\MSD.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\Views\MainWindow.baml
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\App.g.cs
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\MSD_MarkupCompile.cache
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\MSD.g.resources
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\MSD.Properties.Resources.resources
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\MSD.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\MSD.exe
+C:\Users\Thomas\Documents\GitHub\c-Project\MSD\MSD\obj\Debug\MSD.pdb
