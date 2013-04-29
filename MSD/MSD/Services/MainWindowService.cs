@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MSD.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +11,9 @@ namespace MSD.Services
     {
         private Views.MainWindow _mainWindow;
 
-        public MainWindowService()
+        public MainWindowService(MainWindow mainWindow)
         {
-            _mainWindow = new Views.MainWindow();
+            _mainWindow = mainWindow;
             _mainWindow.Show();
         }
     }
